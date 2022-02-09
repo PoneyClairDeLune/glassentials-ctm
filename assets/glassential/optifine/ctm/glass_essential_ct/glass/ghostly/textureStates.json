@@ -8,8 +8,8 @@
 	},
 	"slice": {
 		"start": 1,
-		"height": 3,
-		"width": 3
+		"height": 1,
+		"width": 1
 	},
 	"map": "012345678",
 	"features": [
